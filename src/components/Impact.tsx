@@ -2,7 +2,6 @@ const stats = [
   { value: "20+", label: "Girls Empowered", description: "Young women who've participated in our programs" },
   { value: "20+", label: "Workshops Completed", description: "Hands-on learning experiences" },
   { value: "40+", label: "Industry Mentors", description: "Professionals guiding the next generation" },
-  { value: "95%", label: "Program Completion", description: "Of participants complete their chosen program" },
 ];
 
 const Impact = () => {
