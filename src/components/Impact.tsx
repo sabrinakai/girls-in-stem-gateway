@@ -22,7 +22,7 @@ const Impact = () => {
           </p>
         </div>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
           {stats.map((stat, index) => (
             <div
               key={stat.label}
