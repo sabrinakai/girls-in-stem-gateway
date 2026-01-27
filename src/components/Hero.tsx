@@ -35,7 +35,7 @@ const Hero = () => {
         {/* CTA buttons */}
         <div className="flex flex-col sm:flex-row gap-4 animate-fade-in" style={{ animationDelay: '0.3s' }}>
           <Button variant="hero" size="xl">
-            Join Our Programs
+            Learn More
             <ArrowRight className="w-5 h-5" />
           </Button>
           <Button variant="heroOutline" size="xl">
