@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Mission from "@/components/Mission";
+import Gallery from "@/components/Gallery";
 import Impact from "@/components/Impact";
 import GetInvolved from "@/components/GetInvolved";
 import Footer from "@/components/Footer";
@@ -14,6 +15,7 @@ const Index = () => {
         <section id="about">
           <Mission />
         </section>
+        <Gallery />
         <section id="impact">
           <Impact />
         </section>
