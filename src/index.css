@@ -15,17 +15,17 @@
     --popover: 0 0% 100%;
     --popover-foreground: 220 25% 10%;
 
-    --primary: 174 72% 40%;
+    --primary: 330 70% 65%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 12 85% 65%;
-    --secondary-foreground: 0 0% 100%;
+    --secondary: 220 30% 25%;
+    --secondary-foreground: 330 70% 75%;
 
-    --muted: 210 20% 94%;
+    --muted: 220 20% 94%;
     --muted-foreground: 220 10% 45%;
 
-    --accent: 45 93% 58%;
-    --accent-foreground: 220 25% 10%;
+    --accent: 330 80% 75%;
+    --accent-foreground: 220 30% 15%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
@@ -37,15 +37,15 @@
     --radius: 0.75rem;
 
     /* Custom tokens */
-    --gradient-primary: linear-gradient(135deg, hsl(174 72% 40%) 0%, hsl(190 75% 45%) 100%);
-    --gradient-secondary: linear-gradient(135deg, hsl(12 85% 65%) 0%, hsl(350 80% 60%) 100%);
-    --gradient-hero: linear-gradient(180deg, hsl(210 20% 98%) 0%, hsl(174 40% 95%) 100%);
-    --gradient-accent: linear-gradient(135deg, hsl(45 93% 58%) 0%, hsl(30 90% 55%) 100%);
+    --gradient-primary: linear-gradient(135deg, hsl(330 70% 65%) 0%, hsl(330 80% 75%) 100%);
+    --gradient-secondary: linear-gradient(135deg, hsl(220 30% 25%) 0%, hsl(220 35% 35%) 100%);
+    --gradient-hero: linear-gradient(180deg, hsl(220 30% 18%) 0%, hsl(220 25% 12%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(330 80% 75%) 0%, hsl(330 70% 65%) 100%);
     
-    --shadow-soft: 0 4px 20px -4px hsl(220 25% 10% / 0.1);
-    --shadow-medium: 0 8px 30px -6px hsl(220 25% 10% / 0.15);
-    --shadow-glow-primary: 0 8px 30px -6px hsl(174 72% 40% / 0.4);
-    --shadow-glow-secondary: 0 8px 30px -6px hsl(12 85% 65% / 0.4);
+    --shadow-soft: 0 4px 20px -4px hsl(220 25% 10% / 0.3);
+    --shadow-medium: 0 8px 30px -6px hsl(220 25% 10% / 0.4);
+    --shadow-glow-primary: 0 8px 30px -6px hsl(330 70% 65% / 0.5);
+    --shadow-glow-secondary: 0 8px 30px -6px hsl(220 30% 25% / 0.4);
 
     --font-heading: 'Space Grotesk', sans-serif;
     --font-body: 'Inter', sans-serif;
@@ -70,16 +70,16 @@
     --popover: 220 25% 12%;
     --popover-foreground: 210 20% 98%;
 
-    --primary: 174 72% 50%;
+    --primary: 330 70% 65%;
     --primary-foreground: 220 25% 10%;
 
-    --secondary: 12 85% 65%;
-    --secondary-foreground: 0 0% 100%;
+    --secondary: 220 30% 25%;
+    --secondary-foreground: 330 70% 75%;
 
     --muted: 220 20% 18%;
     --muted-foreground: 210 15% 60%;
 
-    --accent: 45 93% 58%;
+    --accent: 330 80% 75%;
     --accent-foreground: 220 25% 10%;
 
     --destructive: 0 62.8% 30.6%;
@@ -87,7 +87,7 @@
 
     --border: 220 20% 20%;
     --input: 220 20% 20%;
-    --ring: 174 72% 50%;
+    --ring: 330 70% 65%;
 
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
